@@ -1,5 +1,5 @@
 ﻿
-// deklarera vårt namn,ålder och en bool om vi har ätit frukost. Skriv ut dessa i WriteLine
+// deklarera namn,ålder och en bool om vi har ätit frukost. Skriv ut dessa i WriteLine
 
 
 
@@ -18,6 +18,18 @@ var heltal2 = 2L;
 
 Console.WriteLine($"Heltal: {heltal}");
 Console.WriteLine("Heltal: " + heltal);
-Console.WriteLine($"Hej {namn} din ålder är {age} status för din frukost är {frukost} ");
+
+
+if (frukost)
+{
+    Console.WriteLine($"Hej {namn} din ålder är {age}, bra att du ätit frukost!");
+}
+
+else
+{
+    Console.WriteLine($"Hej {namn} din ålder är {age}, kaffe är inte frukost, ät nåt innan skolan börjar.");
+}
+
+Console.ReadKey();
 
 
