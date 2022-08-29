@@ -1,0 +1,15 @@
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\obj\Debug\net6.0\MyThirdApp.csproj.AssemblyReference.cache
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\obj\Debug\net6.0\MyThirdApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\obj\Debug\net6.0\MyThirdApp.AssemblyInfoInputs.cache
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\obj\Debug\net6.0\MyThirdApp.AssemblyInfo.cs
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\obj\Debug\net6.0\MyThirdApp.csproj.CoreCompileInputs.cache
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\bin\Debug\net6.0\MyThirdApp.exe
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\bin\Debug\net6.0\MyThirdApp.deps.json
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\bin\Debug\net6.0\MyThirdApp.runtimeconfig.json
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\bin\Debug\net6.0\MyThirdApp.dll
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\bin\Debug\net6.0\MyThirdApp.pdb
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\obj\Debug\net6.0\MyThirdApp.dll
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\obj\Debug\net6.0\refint\MyThirdApp.dll
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\obj\Debug\net6.0\MyThirdApp.pdb
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\obj\Debug\net6.0\MyThirdApp.genruntimeconfig.cache
+C:\Users\krist\Documents\GitHub\MyThirdApp\MyThirdApp\MyThirdApp\obj\Debug\net6.0\ref\MyThirdApp.dll
